@@ -3,7 +3,7 @@
 ## Contacts
 ***
 - Location: Samara, Russia
-- Phone: +79277095600
+- Phone: +79277095650
 - Email: xanmag@mail.ru
 - GitHub: [xanmag21](https://github.com/Xanmag21)
 ***
