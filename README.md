@@ -1,1 +1,1 @@
-# rsschool-cv
+https://xanmag21.github.io/rsschool-cv/cv
